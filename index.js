@@ -183,6 +183,7 @@ function filterByWord(arr, str){
     }
   }
   return newArr;
+  
 }
 
 
